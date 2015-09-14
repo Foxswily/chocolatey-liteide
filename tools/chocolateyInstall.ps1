@@ -1,7 +1,7 @@
 $packageName = 'liteide'
-$version = '27.1'
-$url = 'http://server.pkg/pkgs/liteide/liteidex'+$version + '.windows.7z'
-$url64 = 'http://server.pkg/pkgs/liteide/liteidex'+$version + '.windows.7z'
+$version = '27.2.1'
+$url = 'http://server.pkg/pkgs/liteide/liteidex'+$version + '.windows-qt4.zip'
+$url64 = 'http://server.pkg/pkgs/liteide/liteidex'+$version + '.windows-qt4.zip'
 $validExitCodes = @(0)
 $InstallPath = $env:INSTPATH
 try {

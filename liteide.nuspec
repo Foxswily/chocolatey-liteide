@@ -5,7 +5,7 @@
     <!-- Read this before publishing packages to chocolatey.org: https://github.com/chocolatey/chocolatey/wiki/CreatePackages -->
     <id>liteide</id>
     <title>Go IDE (Zip)</title>
-    <version>27.1</version>
+    <version>27.2.1</version>
     <authors>visualfc</authors>
     <owners>Shiy</owners>
     <summary>LiteIDE is a simple, open source, cross-platform Go IDE.</summary>
@@ -24,7 +24,7 @@
     <!-- <dependencies>
         <dependency id="golang" version="1.5" />
     </dependencies> -->
-    <releaseNotes>27.1</releaseNotes>
+    <releaseNotes>27.2.1</releaseNotes>
     <!--<provides></provides>-->
   </metadata>
   <files>
